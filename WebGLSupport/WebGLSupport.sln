@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGLSupport", "WebGLSupport.csproj", "{f36d61e3-a476-9907-cfe0-60f78885c43e}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c3d5fc42-01e9-e48c-ec9f-8c28f521d584}"
 EndProject
 Global
@@ -8,6 +10,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f36d61e3-a476-9907-cfe0-60f78885c43e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f36d61e3-a476-9907-cfe0-60f78885c43e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c3d5fc42-01e9-e48c-ec9f-8c28f521d584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{c3d5fc42-01e9-e48c-ec9f-8c28f521d584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
