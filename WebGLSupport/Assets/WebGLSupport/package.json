@@ -2,7 +2,7 @@
     "name": "com.elex.webglsupport",
     "displayName": "WebGLSupport",
     "author": { "name": "", "url": "" },
-    "version": "0.0.2",
+    "version": "0.0.4",
     "unity": "2018.4",
     "description": "",
     "keywords": [ "WebGLSupport" ],
