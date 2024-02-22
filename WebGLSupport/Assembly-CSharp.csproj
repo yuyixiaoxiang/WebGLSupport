@@ -55,6 +55,7 @@
      <Folder Include="Assets\WebGLSupport\WebGLWindow" />
      <Folder Include="Assets\WebGLSupport\WebGLInput" />
      <Folder Include="Assets\WebGLSupport" />
+     <None Include="Assets\WebGLSupport\package.json" />
      <Folder Include="Assets\Scenes" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

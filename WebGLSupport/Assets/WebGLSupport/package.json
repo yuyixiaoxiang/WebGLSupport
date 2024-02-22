@@ -1,0 +1,12 @@
+{
+    "name": "com.elex.webglsupport",
+    "displayName": "WebGLSupport",
+    "author": { "name": "", "url": "" },
+    "version": "0.0.2",
+    "unity": "2018.4",
+    "description": "",
+    "keywords": [ "WebGLSupport" ],
+    "license": "MIT",
+    "category": "",
+    "dependencies": {}
+}
